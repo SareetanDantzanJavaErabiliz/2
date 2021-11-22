@@ -4,7 +4,5 @@ Liburuko egileon helburua, irakurleak hasiera-hasieratik programatzen jartzea da
 
 Biltegi honetan kapituluko adibideen fitxategiak dituzu, bakoitza bere karpetan:
 
-
-  LehenengoJavaPrograma: 74. orr.
-  
-  Zen     : 75. orr.
+  LehenengoJavaPrograma: 74. orr.  
+  ZenbakiOsoaIrakurri: 75. orr.
