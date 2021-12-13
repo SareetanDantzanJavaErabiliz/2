@@ -7,6 +7,5 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - LehenengoJavaPrograma: 74. orr.
 - ZenbakiOsoaIrakurri: 75. orr.
 
-# 
-###### [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) 
-###### [Liburuaren erabilpena](https://youtu.be/xtkatKohanU)
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
